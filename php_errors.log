@@ -1,0 +1,28 @@
+[24-Nov-2024 08:12:52 Europe/Berlin] Incoming request: Array
+(
+    [action] => add
+    [ajax] => true
+    [name] => akash
+)
+
+[24-Nov-2024 08:13:00 Europe/Berlin] Incoming request: Array
+(
+    [action] => add
+    [ajax] => true
+    [name] => Akash 
+)
+
+[24-Nov-2024 08:17:13 Europe/Berlin] Incoming request: Array
+(
+    [action] => add
+    [ajax] => true
+    [name] => akash
+)
+
+[24-Nov-2024 08:17:36 Europe/Berlin] Incoming request: Array
+(
+    [action] => add
+    [ajax] => true
+    [name] => akash
+)
+
